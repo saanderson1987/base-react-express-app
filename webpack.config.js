@@ -16,6 +16,3 @@ module.exports = {
   },
   devtool: 'source-map'
 };
-
-// include: path.resolve(__dirname, "frontend"),
-// entry: '/frontend/index.js',
